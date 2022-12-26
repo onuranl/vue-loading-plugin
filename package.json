@@ -1,0 +1,22 @@
+{
+  "name": "@onuranl/vue-loading-plugin",
+  "version": "1.0.0",
+  "description": "simple loading screen for the vue developers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onuranl/vue-loading-plugin.git"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "Onur Anil Mertoglu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/onuranl/vue-loading-plugin/issues"
+  },
+  "homepage": "https://github.com/onuranl/vue-loading-plugin#readme"
+}
